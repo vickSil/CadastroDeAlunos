@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alunos>
+    <aluno id="1">
+        <Nome>wer</Nome>
+        <CPF>345</CPF>
+        <Curso>457</Curso>
+        <Endereco>
+            <Rua>578</Rua>
+            <Numero>6798</Numero>
+            <Bairro>234</Bairro>
+            <Cidade>546</Cidade>
+            <Estado>7</Estado>
+            <CEP>56</CEP>
+        </Endereco>
+    </aluno>
+    <aluno id="1">
+        <Nome>gu</Nome>
+        <CPF>23</CPF>
+        <Curso>34</Curso>
+        <Endereco>
+            <Rua>435</Rua>
+            <Numero>34</Numero>
+            <Bairro>34</Bairro>
+            <Cidade>34</Cidade>
+            <Estado>34</Estado>
+            <CEP>34</CEP>
+        </Endereco>
+    </aluno>
+</alunos>
