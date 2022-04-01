@@ -17,6 +17,9 @@ public class Main {
 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
+		System.out.println("OLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA TESTEEEEEEEEEE");
+		
+		
 		int menu = 0;
 		while(menu != 5) {		
 			menu = ViewCRUDAlunos.ViewMenuPrincipal(reader);	
